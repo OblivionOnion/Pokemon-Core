@@ -1,0 +1,8 @@
+Failed to find: 'Hoppip' 1375843144
+Failed to find: 'Sewaddle' 1375843146
+Failed to find: 'Slakoth' 1375843147
+Failed to find: 'Spinda' 1375843159
+Failed to find: 'Smeargle' 1375843163
+Failed to find: 'Nuzleaf' 1375843174
+Failed to find: 'Buneary' 1375843179
+Failed to find: 'Pineco' 1375843181
